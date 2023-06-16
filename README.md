@@ -1,44 +1,8 @@
 # Flutter Instagram Clone. 
 
-Flutter Instagram Clone. 
-This is a simple flutter application where I have clonned Instagram UI.
-Created by [Joan Louji](https://joanlouji.web.app/)
+An Instagram clone is a social media platform that replicates the fundamental features of Instagram, allowing users to share photos and videos, apply filters, follow other users, like and comment on posts, and engage through direct messaging. It typically includes profile customization, explore/discover sections, hashtag search, and notifications for user activity. While variations may exist, the clone aims to provide a similar user experience to Instagram, fostering social interaction and content sharing within its community.
 
-## Installation
+## Tools Used
 
-``` 
-
-git clone https://github.com/sjlouji/InstagramClone-Flutter.git
-flutter pub get
-flutter run 
-
-```
-
-
-## Demo
-
-<img src="Demo/InstagramClone6.gif" height="300em" /> <br>
-<img src="Demo/InstagramClone1.png" height="300em" /> <br>
-<img src="Demo/InstagramClone2.png" height="300em" /> <br>
-<img src="Demo/InstagramClone4.png" height="300em" /> <br>
-<img src="Demo/InstagramClone5.png" height="300em" /> <br>
-
-Thank you for your support. 
-
-## Get in touch with me
-
-<h3>Where to find me</h3>
-<p><a href="https://github.com/sjlouji" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Joanlouji" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sjlouji" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@sjlouji10" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-   <a href="https://joanlouji.web.app/" target="_blank"><img alt="Joan Louji" src="https://img.shields.io/badge/JL-Joan%20Louji-yellowgreen?style=for-the-badge&" /></a>
-</p>
-
-## Getting Started
-
-A few resources to get started:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Flutter
+2. VS Code
