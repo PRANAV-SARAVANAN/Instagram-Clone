@@ -4,5 +4,6 @@ An Instagram clone is a social media platform that replicates the fundamental fe
 
 ## Tools Used
 
-1. Flutter
-2. VS Code
+1. Chat-GPT 
+2. Flutter
+3. VS Code
